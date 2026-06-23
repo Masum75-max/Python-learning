@@ -5,6 +5,8 @@ print(name[0])
 
 nameShort = name[0:3] # 0 to 3-1 will be included
 
+print(name[0:3:2])
+
 print(nameShort)
 
 print(nameShort)
